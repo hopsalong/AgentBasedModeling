@@ -4,3 +4,4 @@ as well as various tweeks that came along with that such as coord_flip() and sta
 to order the plot from greatest to least population with mutate and fct_reorder(). The next steps to improve these plots
 would be to find a way to make all of the labels on the population density map visible. I would also want to change the 
 format of the legend (both its title and the way the numbers are written) simply for aesthetic reasons.
+![](pakistan_combo.png)
