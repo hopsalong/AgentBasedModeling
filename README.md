@@ -7,3 +7,5 @@
 [Week 2 Assignment: Extracting Populations from a Raster and Aggregating to each Unit](population_modeling.md)
 
 [Project 1](Project1.md)
+
+[Data Science Insight 1](DataScienceInsight1.pdf)
