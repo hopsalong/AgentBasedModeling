@@ -1,6 +1,6 @@
 # Part 1
 
-I decided to do my analysis on Guinea, primarily because it's population density is large enough to provide for interesting analysis, but still small enough for my computer to run. First I plotted a map showing the population of each region in Guinea. I then created a plot using the geom_bar function that presents the same information, on the population of each prefecture in Boke, except in bar plot version (and with some other differences like the percent of total population that's ncluded in the bar graph). 
+I decided to do my analysis on Guinea, primarily because it's population density is large enough to provide for interesting analysis, but still small enough for my computer to run. First I plotted a map showing the population of each region in Guinea. I then created a plot using the geom_bar function that presents the same information, on the population of each prefecture in Boke, except in bar plot version (and with some other differences like the percent of total population that's included in the bar graph). 
 ![](guinea_combo2.png)
 
 Based off of these results, I decided to focus further on the Boke region, and repeated the same steps to create the same plots for the Boke region. Both of these plots were very helpful for me in terms of deciding which prefecture to use for the next stage of the project.
