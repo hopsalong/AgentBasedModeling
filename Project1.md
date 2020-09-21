@@ -22,4 +22,4 @@ to the more populous Gaoual prefecture. However, Gaoual doesn't have any populat
 
 # Zipf's Law
 As you can see from this screenshot of my urban areas polygon's table, Koundara doesn't quite match Zipf's law. This could be due to the fact that the first two population sizes are just so large that they are outliers. However, looking through the rest of the urban areas, even disregarding the two largest, the data isn't really in line with Zipf's law
-![](zipfs.png)
+![](zipfs.PNG)
