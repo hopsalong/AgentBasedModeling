@@ -9,3 +9,5 @@
 [Project 1](Project1.md)
 
 [Data Science Insight 1](DataScienceInsight1.pdf)
+
+[Data Science Insight 2](insight2.pdf)
