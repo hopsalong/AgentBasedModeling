@@ -11,3 +11,5 @@
 [Data Science Insight 1](DataScienceInsight1.pdf)
 
 [Data Science Insight 2](insight2.pdf)
+
+[Project 2](Project2.md)
