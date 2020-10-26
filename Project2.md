@@ -1,5 +1,5 @@
 1. rpoint plot of households
-![](rpoint_boke.png)
+![](rpoint_boke.PNG)
 
 2. density/size plot
 ![](density1.PNG)
