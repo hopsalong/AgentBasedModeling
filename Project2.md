@@ -1,3 +1,6 @@
+  STILL NOT DONE
+  
+  
   For this project I continued my focus on Guniea. And because of challenges with available RAM on my computer, I decided to look specifically at the Boke region, which is where the Koundara prefecture (which I analyzed for the last project) is located. I downloaded my survey data from DHS and selected columns for education, age, gender, location, size and weights to be in my data frame. There are a total of 7912 household observations in guniea (1073 of which are in Boke), and 10874 persons observations. 
 1. rpoint plot of households
 
