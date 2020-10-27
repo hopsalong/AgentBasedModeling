@@ -11,6 +11,7 @@ First I used the rpoint function to plot the households in Boke. The percent err
 
 2. density/size plot
 
+weighted error = 0.0004734058
 ![](density1.PNG)
 ![](density2.PNG)
 
