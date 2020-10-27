@@ -29,13 +29,16 @@ The percentized data has the most variability, and the most predictive power out
 
 
 4. ROC and GAIN graphs from models
+Next I conducted a multinomial regression and ranger random forest to predict education. I then produced Gain and ROC charts for each regression.
 ![](multireg_gain2.PNG)
 ![](multireg_roc2.PNG)
+The above charts show the multinomial regression, which had an accuracy of .62. 
 
 ![](rf_gain2.PNG)
 ![](rf_roc2.PNG)
+The above charts show the random forest model, which had an accuracy of .663. Although the accuracy score is not significantly higher than that of the multinomial regression, the ROC charts show a dramatic improvement, telling us that there is a higher true positive vs false positive rate for the random forest. 
 
 5. prediction, truth confmat
-
+accuracy = 0.699
 ![](confmat.PNG)
 ![](nn_graph.PNG)
