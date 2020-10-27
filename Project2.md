@@ -16,10 +16,18 @@ weighted error = 0.0004734058
 ![](density2_2.PNG)
 
 3. heatplots
-![](scale2.png)
+
+Next I made heatplots to demonstrate the predictive power of the data. I selected the age, gender, education and size columns to focus on. I made heatmaps with raw data, scaled data, normalized data, and percentized data. 
 ![](raw2.png)
+The raw data heatmap is mostly homogenous, the only variable that produces different combinations is age, which means that it could be a useful predictor. 
+![](scale.png)
+The scaled data heatmap is also fairly homogenous, but much less so than the raw data. This means that it has more predictive power.
 ![](normal2.png)
+The normalized data is very interesting. There is some variability in size and a lot in age, but most notably there is a complete binary in gender. This is most likely because of the large gender gap in education in Guinea.
 ![](percent2.png)
+The percentized data has the most variability, and the most predictive power out of all of the data processing techniques.
+
+
 4. ROC and GAIN graphs from models
 ![](multireg_gain2.PNG)
 ![](multireg_roc2.PNG)
