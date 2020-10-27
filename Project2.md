@@ -16,10 +16,10 @@ weighted error = 0.0004734058
 ![](density2_2.PNG)
 
 3. heatplots
-![](scale.png)
-![](raw.png)
-![](normal.png)
-![](percent.png)
+![](scale2.png)
+![](raw2.png)
+![](normal2.png)
+![](percent2.png)
 4. ROC and GAIN graphs from models
 ![](multireg_gain2.PNG)
 ![](multireg_roc2.PNG)
@@ -28,3 +28,6 @@ weighted error = 0.0004734058
 ![](rf_roc2.PNG)
 
 5. prediction, truth confmat
+
+![](confmat.PNG)
+![](nn_graph.PNG)
