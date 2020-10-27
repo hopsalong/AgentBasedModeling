@@ -12,8 +12,8 @@ First I used the rpoint function to plot the households in Boke. The percent err
 2. density/size plot
 
 weighted error = 0.0004734058
-![](density1.PNG)
-![](density2.PNG)
+![](density1_2.PNG)
+![](density2_2.PNG)
 
 3. heatplots
 ![](scale.png)
@@ -21,10 +21,10 @@ weighted error = 0.0004734058
 ![](normal.png)
 ![](percent.png)
 4. ROC and GAIN graphs from models
-![](multireg_gain.PNG)
-![](multireg_roc.PNG)
+![](multireg_gain2.PNG)
+![](multireg_roc2.PNG)
 
-![](rf_gain.PNG)
-![](rf_roc.PNG)
+![](rf_gain2.PNG)
+![](rf_roc2.PNG)
 
 5. prediction, truth confmat
