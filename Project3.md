@@ -19,4 +19,4 @@ How would the gravity model update these attributes in order to produce a differ
 How would you go about integrating migration and transport activities at the differing geospatial and temporal scales of these hierarchical levels?
 
 
-[gif](output.gif)
+![](output.gif)
