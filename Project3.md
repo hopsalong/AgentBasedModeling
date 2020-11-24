@@ -10,9 +10,8 @@ For the first part of this project, I created a gravity model for London using c
 # Origin-Destination Matrix
 For this project, I continued to examine at the Guinea, which is the country that I've been looking at for the duration of this class. I downloaded the 2010 migration flows for Guinea from World Pop, which are based on the ADM2 level. Using this data I created an origin destination matrix shown below:
 
-![](odmp1.PNG)
 ![](odmp2.PNG)
-My ODM has 34 rows, meaning that there are 34 districts withing Guinea that are measured for migration flow. Each number represents a ADM2 subdivision, so every box shows the flow of people from one subdivision to another. The empty boxes represent the flow within a single subdivision (so NA). 
+My ODM has 34 rows, meaning that there are 34 districts within Guinea that are measured for migration flow. Each number represents a ADM2 subdivision, so every box shows the flow of people from one subdivision to another. The empty boxes represent the flow within a single subdivision (so NA). 
 
 # Migration Flows
 I was able to use the migration flow data to make graphs showing where the majority of is coming from and going to. The first graph shows where people are migrating to, with the lighter blue areas having more migration to them. The second graph shows out migration, with lighter blue meaning that more people are leaving.
