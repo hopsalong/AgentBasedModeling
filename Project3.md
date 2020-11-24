@@ -22,7 +22,7 @@ I was able to use the migration flow data to make graphs showing where the major
 
 
 # Animation
-Next, I made an animation to represent the flows between subdivisions. The animation is essentially a visualization of the origin destinitation matrix, with every point representing a ADM2 level district, the lines representing the flows between them, and the dots representing the people migrating along the flows. 
+Next, I made an animation to represent the flows between subdivisions. The animation is essentially a visualization of the origin destinitation matrix, with every point representing a ADM2 level district, the lines representing the flows between them, and the dots representing the people migrating along the flows. In the future, I would probably want to make a different kind of animation to represent migration flows in Guinea. Because there are 34 subdvisions, resulting in 1122 lines, the animation is very crowded and hard to get any information from. I think that a better way to do it would be to either select the largest flows and only represent those, or to group the ADM2 migration flows into ADM1 flows so that there are fewer lines. 
 
 ![](output.gif)
 
